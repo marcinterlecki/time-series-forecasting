@@ -1,0 +1,8 @@
+# Ignorowanie wszystkich plików HTML
+*.html linguist-generated
+
+# Określenie, że wszystkie pliki Jupyter Notebook są języka Python
+*.ipynb linguist-language=Python
+
+# Określenie, że wszystkie pliki .py są języka Python
+*.py linguist-language=Python
