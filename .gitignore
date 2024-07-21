@@ -1,0 +1,5 @@
+/arch
+/old
+/prediction_results_reg.csv
+/prediction_results_xgb.csv
+/Prognoza_transformed.csv
